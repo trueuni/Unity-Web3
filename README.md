@@ -315,11 +315,3 @@ Output:
 
 <p align="right">(<a href="#top">back to top</a>)</p>
 
-
-## View Full Examples
-
-For full examples:
-
-View 
-[ERC20 token example](https://github.com/trueuni/Unity-Web3/blob/master/Assets/AnkrSDK/Examples/Scripts/ERC20Example/ERC20Example.cs) and
-[ERC721 token example](https://github.com/trueuni/Unity-Web3/blob/master/Assets/AnkrSDK/Examples/Scripts/ERC721Example/ERC721Example.cs)
